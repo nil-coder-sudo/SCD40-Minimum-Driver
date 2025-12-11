@@ -1,0 +1,6 @@
+SCD40_read_data       KEYWORD1
+SCD40_begin           KEYWORD1
+SCD40_compute_crc     KEYWORD1
+Scd40Data             KEYWORD2
+SCD40_ADDR            LITERAL1
+START_PERIODIC_MEASUREMENT LITERAL1
